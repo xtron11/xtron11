@@ -1,8 +1,17 @@
-<h1 align="center">Привет, я xtron11 👋</h1>
+<h1 align="center">Привет, я Ilyas 👋</h1>
 
 <p align="center">
   Python-разработчик: бэкенд, ML и AI-продукты.<br>
   Делаю сервисы, где под капотом работают речь, компьютерное зрение и LLM: от Telegram-ботов до микросервисных систем реального времени.
+</p>
+
+<p align="center">
+  🔎 <b>Сейчас в поиске работы</b>: Python / Backend / ML-разработка. Открыт к предложениям!
+</p>
+
+<p align="center">
+  <a href="https://t.me/Xtronqq"><img src="https://img.shields.io/badge/Telegram-@Xtronqq-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <img src="https://img.shields.io/badge/Discord-xtronqq-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: xtronqq">
 </p>
 
 ---
@@ -46,7 +55,7 @@
 
 ---
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xtron11&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtron11&layout=compact&hide_border=true" alt="Top languages" />
-</p>
+## 📬 Связаться
+
+- Telegram: [@Xtronqq](https://t.me/Xtronqq)
+- Discord: `xtronqq`
